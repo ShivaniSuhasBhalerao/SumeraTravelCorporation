@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sumera Travel Corporation", "Sumera Travel Corporation\Sumera Travel Corporation.csproj", "{AFCBBA21-A832-47E1-ACF3-0DD12FBC9E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCBBA21-A832-47E1-ACF3-0DD12FBC9E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCBBA21-A832-47E1-ACF3-0DD12FBC9E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCBBA21-A832-47E1-ACF3-0DD12FBC9E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCBBA21-A832-47E1-ACF3-0DD12FBC9E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282D4DFA-226D-47B0-8EAC-7136EDB68DFB}
+	EndGlobalSection
+EndGlobal
